@@ -2,6 +2,7 @@ import argparse
 import logging
 import math
 import os
+import sys
 import random
 import time
 from copy import deepcopy
@@ -525,6 +526,7 @@ def train(hyp, opt, device, tb_writer=None):
 
 
 if __name__ == '__main__':
+    print(sys.argv)
     parser = argparse.ArgumentParser()
     parser.add_argument('--weights', type=str, default='yolo7.pt', help='initial weights path')
     parser.add_argument('--cfg', type=str, default='', help='model.yaml path')
