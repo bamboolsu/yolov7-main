@@ -1,0 +1,10 @@
+./leo_training/20231206120915.jpg
+./leo_training/20231206120950.jpg
+./leo_training/20231206121005.jpg
+./leo_training/20231206121015.jpg
+./leo_training/20231206121023.jpg
+./leo_training/20231206121032.jpg
+./leo_training/20231206121039.jpg
+./leo_training/20231206121047.jpg
+./leo_training/20231206121057.jpg
+./leo_training/class.jpg

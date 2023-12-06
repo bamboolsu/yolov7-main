@@ -1,0 +1,2 @@
+./leo_training/20231206120915.jpg
+./leo_training/20231206121032.jpg
