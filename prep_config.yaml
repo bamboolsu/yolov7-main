@@ -1,0 +1,5 @@
+txt_directory: './leo_training/'
+img_directory: './leo_training/'
+label_directory: './leo_training/'
+classes: ['tv']
+train_test_ratio: 5
