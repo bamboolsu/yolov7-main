@@ -1,12 +1,12 @@
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
-#*.jpg
+#*.jpg  #leo add 
 *.jpeg
 *.png
 *.bmp
 *.tif
 *.tiff
 *.heic
-#*.JPG
+#*.JPG  #leo add 
 *.JPEG
 *.PNG
 *.BMP
@@ -121,6 +121,8 @@ nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
+train.cache  #leo add 
+valiate.cache  #leo add 
 
 # Translations
 *.mo
