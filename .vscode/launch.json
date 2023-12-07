@@ -43,10 +43,8 @@
             "justMyCode": true,
             "purpose": ["debug-in-terminal"],
             "args": [
-                "--weights", "runs/train/yolov7-epoch5-batch32-worker6/weights/best.pt",
-                "--source","./test/20231207103708.jpg",
-                "--conf", "0.45",
-                "--iou", "0.10"
+                "--weights", "runs/train/yolov7-epoch100-batch3-worker6/weights/best.pt",
+                "--source","./test/"
             ]
         }
     ]
