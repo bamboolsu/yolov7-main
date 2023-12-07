@@ -3,6 +3,7 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
 
+    // 使用左侧的debug， 右侧的debug可能不起作用； 右侧的起作用的话，需要添加
     // train args config
     /*
     "args": [
@@ -40,6 +41,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
+            "purpose": ["debug-in-terminal"],
             "args": [
                 "--weights", "runs/train/yolov7-epoch5-batch32-worker6/weights/best.pt",
                 "--source","./test/20231207103708.jpg",
